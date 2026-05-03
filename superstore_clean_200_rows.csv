@@ -1,0 +1,201 @@
+Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Customer Name,Segment,City,State,Region,Category,Sub-Category,Product ID,Product Name,Sales,Quantity,Discount,Profit
+CA-2024-100068,2023-01-02,2023-01-06,First Class,CUST-6877,Divya N,Corporate,New Delhi,Delhi,Central,Technology,Accessories,PROD-TE-2301,Logitech Wireless Mouse,483.69,7,0.0,121.43
+CA-2024-100132,2023-01-05,2023-01-09,Second Class,CUST-7284,Anitha M,Consumer,Chennai,Tamil Nadu,West,Office Supplies,Storage,PROD-OF-8285,Rubbermaid Containers,216.64,8,0.15,11.5
+CA-2025-100053,2023-01-14,2023-01-18,First Class,CUST-7898,Karthik K,Corporate,New Delhi,Delhi,West,Office Supplies,Supplies,PROD-OF-1793,Staples Index Cards,458.31,4,0.05,130.91
+CA-2024-100138,2023-01-15,2023-01-21,First Class,CUST-8397,Vijay P,Corporate,Ahmedabad,Gujarat,West,Furniture,Tables,PROD-FU-2735,Bevis Round Table,1379.39,6,0.05,48.31
+CA-2025-100097,2023-01-15,2023-01-19,First Class,CUST-8266,Anitha P,Home Office,Bengaluru,Karnataka,South,Technology,Phones,PROD-TE-7540,Apple iPhone Business,493.39,1,0.3,-42.28
+CA-2025-100047,2023-01-21,2023-01-27,First Class,CUST-6415,Suresh K,Corporate,Bengaluru,Karnataka,West,Technology,Machines,PROD-TE-4391,3D Printer Mini,739.35,5,0.05,83.01
+CA-2024-100006,2023-01-21,2023-01-24,First Class,CUST-1580,Suresh N,Corporate,Ahmedabad,Gujarat,Central,Furniture,Furnishings,PROD-FU-8004,DAX Clear Frame,263.09,1,0.05,15.43
+CA-2025-100029,2023-01-22,2023-01-26,Standard Class,CUST-4419,Vijay K,Home Office,New Delhi,Delhi,Central,Technology,Machines,PROD-TE-8239,3D Printer Mini,237.35,1,0.1,59.16
+CA-2024-100116,2023-01-28,2023-01-30,First Class,CUST-8115,Divya P,Consumer,Chennai,Tamil Nadu,East,Furniture,Chairs,PROD-FU-7656,Hon Deluxe Fabric Chair,830.43,3,0.0,152.7
+CA-2025-100163,2023-01-28,2023-02-01,Second Class,CUST-1685,Arun M,Home Office,Kochi,Kerala,South,Technology,Machines,PROD-TE-3160,3D Printer Mini,3654.39,8,0.2,120.81
+CA-2025-100119,2023-02-02,2023-02-07,Standard Class,CUST-6370,Priya M,Consumer,Chennai,Tamil Nadu,Central,Technology,Phones,PROD-TE-1125,Samsung Galaxy Office,578.81,6,0.3,14.65
+CA-2025-100063,2023-02-04,2023-02-05,Standard Class,CUST-9519,Arun S,Home Office,Bengaluru,Karnataka,West,Furniture,Furnishings,PROD-FU-8221,Eldon Wave Desk Accessories,88.12,1,0.2,8.7
+CA-2024-100152,2023-02-05,2023-02-12,Standard Class,CUST-4716,Anitha R,Corporate,Kolkata,West Bengal,West,Furniture,Chairs,PROD-FU-5481,Hon Deluxe Fabric Chair,1591.25,5,0.3,-121.72
+CA-2025-100095,2023-02-10,2023-02-13,Same Day,CUST-3752,Anitha R,Corporate,Kochi,Kerala,South,Furniture,Chairs,PROD-FU-9213,Global Ergonomic Chair,2849.35,6,0.0,313.98
+CA-2025-100115,2023-02-10,2023-02-12,Same Day,CUST-8062,Priya N,Home Office,Chennai,Tamil Nadu,Central,Office Supplies,Envelopes,PROD-OF-4374,Staples Premium Envelopes,367.16,7,0.15,71.23
+CA-2024-100120,2023-02-17,2023-02-18,Same Day,CUST-7294,Suresh M,Corporate,Bengaluru,Karnataka,Central,Technology,Copiers,PROD-TE-7527,Canon ImageRunner,760.33,2,0.3,2.04
+CA-2024-100090,2023-02-22,2023-02-25,Second Class,CUST-4239,Suresh P,Corporate,Mumbai,Maharashtra,East,Office Supplies,Art,PROD-OF-3139,Newell 324 Art Set,141.35,3,0.15,10.64
+CA-2025-100033,2023-02-28,2023-03-01,First Class,CUST-5164,Suresh P,Home Office,New Delhi,Delhi,West,Technology,Copiers,PROD-TE-8941,Xerox WorkCentre,4834.56,7,0.05,1309.93
+CA-2024-100104,2023-03-04,2023-03-10,First Class,CUST-6791,Arun P,Home Office,New Delhi,Delhi,Central,Furniture,Tables,PROD-FU-9783,Bretford Conference Table,3996.44,9,0.0,583.89
+CA-2024-100098,2023-03-06,2023-03-12,First Class,CUST-6658,Priya M,Consumer,Mumbai,Maharashtra,East,Furniture,Bookcases,PROD-FU-4778,Sauder Classic Bookcase,1489.05,9,0.0,140.2
+CA-2024-100004,2023-03-13,2023-03-20,Same Day,CUST-2693,Suresh N,Home Office,Chennai,Tamil Nadu,Central,Technology,Accessories,PROD-TE-5752,Belkin USB Hub,1598.6,4,0.0,185.18
+CA-2025-100065,2023-03-22,2023-03-24,Standard Class,CUST-5242,Anitha M,Corporate,Ahmedabad,Gujarat,Central,Office Supplies,Binders,PROD-OF-4695,Cardinal Slant-D Binders,111.11,4,0.2,2.57
+CA-2025-100157,2023-03-27,2023-03-30,First Class,CUST-8083,Meena K,Consumer,Ahmedabad,Gujarat,West,Furniture,Tables,PROD-FU-7230,Bevis Round Table,2164.26,7,0.15,252.19
+CA-2025-100013,2023-03-29,2023-03-31,First Class,CUST-4440,Suresh N,Consumer,Chennai,Tamil Nadu,South,Technology,Copiers,PROD-TE-4766,Canon ImageRunner,2244.06,8,0.3,-129.25
+CA-2024-100058,2023-04-02,2023-04-05,Same Day,CUST-7783,Meena K,Home Office,Kochi,Kerala,South,Furniture,Bookcases,PROD-FU-5971,Sauder Classic Bookcase,1114.66,9,0.15,134.55
+CA-2025-100145,2023-04-06,2023-04-09,Second Class,CUST-8842,Priya P,Home Office,Kochi,Kerala,South,Office Supplies,Art,PROD-OF-7721,Boston Pencil Pack,172.64,3,0.3,4.35
+CA-2025-100125,2023-04-09,2023-04-15,Same Day,CUST-1454,Vijay R,Corporate,Kochi,Kerala,Central,Furniture,Bookcases,PROD-FU-3772,Bush Somerset Collection Bookcase,1651.61,6,0.0,187.36
+CA-2025-100015,2023-04-10,2023-04-14,Second Class,CUST-8266,Anitha R,Corporate,Mumbai,Maharashtra,Central,Furniture,Bookcases,PROD-FU-5491,Bush Somerset Collection Bookcase,286.68,3,0.3,23.75
+CA-2024-100000,2023-04-13,2023-04-15,First Class,CUST-6801,Priya N,Home Office,Chennai,Tamil Nadu,East,Furniture,Chairs,PROD-FU-3806,Hon Deluxe Fabric Chair,282.33,2,0.3,13.22
+CA-2025-100071,2023-04-16,2023-04-18,Same Day,CUST-6941,Priya N,Home Office,Hyderabad,Telangana,Central,Office Supplies,Fasteners,PROD-OF-2386,OIC Binder Clips,753.49,9,0.05,231.64
+CA-2025-100003,2023-04-17,2023-04-23,First Class,CUST-1004,Meena S,Corporate,Mumbai,Maharashtra,West,Furniture,Bookcases,PROD-FU-6222,Sauder Classic Bookcase,1200.6,6,0.0,188.99
+CA-2024-100198,2023-04-23,2023-04-29,Same Day,CUST-6661,Meena S,Corporate,Hyderabad,Telangana,Central,Technology,Machines,PROD-TE-7142,Laminator Pro,193.72,1,0.0,27.36
+CA-2024-100008,2023-05-02,2023-05-07,Second Class,CUST-8390,Divya P,Corporate,Mumbai,Maharashtra,East,Office Supplies,Paper,PROD-OF-7905,Hammermill Paper,150.57,5,0.0,42.88
+CA-2025-100101,2023-05-09,2023-05-12,Standard Class,CUST-9884,Suresh N,Home Office,Ahmedabad,Gujarat,West,Furniture,Tables,PROD-FU-6655,Bretford Conference Table,3422.99,9,0.15,561.76
+CA-2025-100017,2023-05-11,2023-05-18,Same Day,CUST-2542,Anitha R,Home Office,New Delhi,Delhi,West,Technology,Machines,PROD-TE-6293,Laminator Pro,2599.83,5,0.2,414.14
+CA-2024-100044,2023-05-11,2023-05-12,First Class,CUST-1224,Suresh P,Corporate,New Delhi,Delhi,East,Technology,Phones,PROD-TE-5208,Apple iPhone Business,489.57,2,0.15,44.3
+CA-2025-100117,2023-05-15,2023-05-21,Standard Class,CUST-3203,Karthik P,Consumer,Hyderabad,Telangana,West,Technology,Accessories,PROD-TE-2390,Belkin USB Hub,694.01,9,0.05,119.4
+CA-2025-100105,2023-05-19,2023-05-23,Standard Class,CUST-2949,Divya P,Home Office,New Delhi,Delhi,South,Technology,Machines,PROD-TE-7732,3D Printer Mini,2207.95,6,0.3,257.45
+CA-2024-100096,2023-06-06,2023-06-09,Standard Class,CUST-6126,Suresh S,Home Office,Chennai,Tamil Nadu,South,Office Supplies,Binders,PROD-OF-9220,Avery Durable Binders,893.34,8,0.15,199.24
+CA-2024-100154,2023-06-09,2023-06-14,Same Day,CUST-8961,Vijay K,Corporate,Hyderabad,Telangana,West,Office Supplies,Fasteners,PROD-OF-6827,OIC Binder Clips,576.55,5,0.2,69.16
+CA-2024-100026,2023-06-10,2023-06-12,Standard Class,CUST-3193,Arun N,Corporate,Kochi,Kerala,South,Office Supplies,Envelopes,PROD-OF-9415,Staples Premium Envelopes,262.58,5,0.2,4.18
+CA-2025-100077,2023-06-11,2023-06-18,Same Day,CUST-5430,Arun P,Corporate,Kolkata,West Bengal,West,Office Supplies,Fasteners,PROD-OF-9820,OIC Binder Clips,86.81,9,0.1,6.81
+CA-2024-100048,2023-06-16,2023-06-21,Second Class,CUST-3898,Vijay N,Consumer,Chennai,Tamil Nadu,West,Furniture,Tables,PROD-FU-8546,Bevis Round Table,608.11,6,0.15,85.82
+CA-2024-100150,2023-06-20,2023-06-21,First Class,CUST-7406,Divya S,Home Office,Kolkata,West Bengal,East,Furniture,Furnishings,PROD-FU-9591,DAX Clear Frame,233.91,2,0.05,17.6
+CA-2024-100092,2023-07-07,2023-07-08,First Class,CUST-4998,Suresh N,Consumer,Bengaluru,Karnataka,West,Office Supplies,Labels,PROD-OF-3403,Smead File Labels,657.09,5,0.0,91.11
+CA-2024-100038,2023-07-09,2023-07-11,Second Class,CUST-6126,Divya S,Consumer,Kolkata,West Bengal,West,Furniture,Furnishings,PROD-FU-6122,DAX Clear Frame,1645.33,8,0.3,24.09
+CA-2025-100173,2023-07-09,2023-07-14,Standard Class,CUST-6469,Priya K,Home Office,Chennai,Tamil Nadu,West,Technology,Phones,PROD-TE-7256,Samsung Galaxy Office,2043.91,3,0.05,395.82
+CA-2024-100024,2023-07-11,2023-07-16,Second Class,CUST-4775,Anitha M,Home Office,Chennai,Tamil Nadu,East,Furniture,Chairs,PROD-FU-7042,Hon Deluxe Fabric Chair,896.55,5,0.15,2.32
+CA-2024-100118,2023-07-20,2023-07-23,Second Class,CUST-7262,Meena R,Corporate,Bengaluru,Karnataka,West,Furniture,Bookcases,PROD-FU-2058,Sauder Classic Bookcase,1039.32,6,0.05,47.22
+CA-2024-100078,2023-07-21,2023-07-25,Standard Class,CUST-5497,Karthik P,Home Office,Mumbai,Maharashtra,East,Office Supplies,Art,PROD-OF-2466,Newell 324 Art Set,924.6,7,0.05,190.61
+CA-2024-100064,2023-07-25,2023-08-01,Second Class,CUST-3538,Anitha R,Home Office,Hyderabad,Telangana,South,Technology,Machines,PROD-TE-5547,3D Printer Mini,4626.98,9,0.15,215.09
+CA-2025-100137,2023-07-26,2023-08-01,Same Day,CUST-1072,Vijay R,Consumer,Kolkata,West Bengal,Central,Technology,Phones,PROD-TE-6472,Apple iPhone Business,2459.09,3,0.0,625.17
+CA-2024-100010,2023-08-03,2023-08-04,Same Day,CUST-4913,Anitha R,Home Office,Kolkata,West Bengal,Central,Office Supplies,Envelopes,PROD-OF-2066,Staples Premium Envelopes,564.08,8,0.2,115.16
+CA-2025-100091,2023-08-05,2023-08-12,Same Day,CUST-5795,Karthik M,Home Office,Kolkata,West Bengal,Central,Office Supplies,Envelopes,PROD-OF-7150,Airmail Envelopes,22.61,1,0.2,5.63
+CA-2025-100133,2023-08-06,2023-08-09,First Class,CUST-5815,Anitha P,Corporate,Bengaluru,Karnataka,West,Office Supplies,Art,PROD-OF-2072,Boston Pencil Pack,133.25,5,0.3,-0.23
+CA-2024-100188,2023-08-13,2023-08-15,First Class,CUST-6223,Meena P,Home Office,Hyderabad,Telangana,West,Technology,Machines,PROD-TE-7971,Laminator Pro,4111.25,8,0.05,612.72
+CA-2024-100174,2023-08-13,2023-08-14,Same Day,CUST-2283,Anitha S,Home Office,Hyderabad,Telangana,Central,Technology,Accessories,PROD-TE-1659,Logitech Wireless Mouse,505.49,7,0.3,72.37
+CA-2024-100172,2023-08-19,2023-08-24,Same Day,CUST-4390,Vijay S,Corporate,Hyderabad,Telangana,East,Office Supplies,Appliances,PROD-OF-6997,Hamilton Beach Blender,187.11,3,0.3,13.15
+CA-2024-100114,2023-08-19,2023-08-25,Same Day,CUST-4155,Meena P,Consumer,Mumbai,Maharashtra,Central,Office Supplies,Envelopes,PROD-OF-9321,Airmail Envelopes,257.77,2,0.0,93.11
+CA-2024-100148,2023-08-19,2023-08-24,First Class,CUST-6777,Karthik S,Home Office,New Delhi,Delhi,South,Technology,Copiers,PROD-TE-4036,Xerox WorkCentre,2068.4,4,0.0,339.61
+CA-2024-100196,2023-08-21,2023-08-23,Same Day,CUST-6925,Karthik N,Corporate,Mumbai,Maharashtra,West,Technology,Accessories,PROD-TE-8358,Logitech Wireless Mouse,4568.91,6,0.0,1221.82
+CA-2025-100189,2023-08-22,2023-08-23,Standard Class,CUST-4200,Divya K,Home Office,Hyderabad,Telangana,East,Office Supplies,Art,PROD-OF-6110,Boston Pencil Pack,98.85,4,0.15,28.28
+CA-2025-100143,2023-08-29,2023-09-01,Second Class,CUST-6299,Arun S,Home Office,Hyderabad,Telangana,East,Office Supplies,Storage,PROD-OF-8574,Rubbermaid Containers,172.61,4,0.0,65.78
+CA-2024-100054,2023-08-30,2023-09-02,Second Class,CUST-8783,Anitha M,Corporate,Mumbai,Maharashtra,West,Office Supplies,Paper,PROD-OF-1984,Hammermill Paper,576.26,5,0.2,60.84
+CA-2024-100156,2023-08-31,2023-09-05,Second Class,CUST-3279,Karthik M,Home Office,New Delhi,Delhi,East,Furniture,Furnishings,PROD-FU-9980,DAX Clear Frame,290.78,1,0.2,-5.82
+CA-2024-100042,2023-09-01,2023-09-08,First Class,CUST-4735,Divya S,Consumer,Hyderabad,Telangana,South,Office Supplies,Supplies,PROD-OF-9434,Staples Index Cards,200.93,6,0.15,23.07
+CA-2024-100084,2023-09-09,2023-09-11,Second Class,CUST-9202,Karthik P,Home Office,New Delhi,Delhi,East,Furniture,Tables,PROD-FU-2868,Bretford Conference Table,674.29,4,0.1,-6.31
+CA-2024-100030,2023-09-10,2023-09-17,First Class,CUST-8901,Priya R,Home Office,Ahmedabad,Gujarat,Central,Furniture,Bookcases,PROD-FU-5858,Sauder Classic Bookcase,2064.32,7,0.2,78.32
+CA-2024-100180,2023-09-16,2023-09-17,Standard Class,CUST-1671,Vijay N,Corporate,Ahmedabad,Gujarat,Central,Technology,Accessories,PROD-TE-8927,Logitech Wireless Mouse,836.37,9,0.1,144.86
+CA-2025-100079,2023-09-27,2023-09-29,Same Day,CUST-5278,Divya S,Consumer,Chennai,Tamil Nadu,West,Office Supplies,Storage,PROD-OF-8126,Rubbermaid Containers,640.21,7,0.0,78.8
+CA-2024-100080,2023-09-28,2023-09-29,Second Class,CUST-9502,Divya M,Home Office,Ahmedabad,Gujarat,Central,Technology,Copiers,PROD-TE-9930,Xerox WorkCentre,3538.36,7,0.3,484.17
+CA-2024-100002,2023-09-28,2023-10-02,Same Day,CUST-2148,Vijay S,Consumer,Mumbai,Maharashtra,South,Technology,Machines,PROD-TE-7293,3D Printer Mini,370.17,3,0.05,65.57
+CA-2025-100049,2023-10-01,2023-10-04,Same Day,CUST-6984,Arun R,Home Office,Kolkata,West Bengal,West,Office Supplies,Envelopes,PROD-OF-6142,Staples Premium Envelopes,252.85,4,0.3,33.0
+CA-2025-100025,2023-10-04,2023-10-08,Standard Class,CUST-6713,Anitha S,Consumer,Chennai,Tamil Nadu,South,Office Supplies,Appliances,PROD-OF-8026,Hoover Microwave,246.05,6,0.1,36.29
+CA-2025-100177,2023-10-10,2023-10-17,Same Day,CUST-3839,Anitha K,Corporate,New Delhi,Delhi,West,Furniture,Bookcases,PROD-FU-4384,Bush Somerset Collection Bookcase,1684.23,4,0.0,129.17
+CA-2025-100111,2023-10-16,2023-10-17,First Class,CUST-4453,Arun R,Consumer,Ahmedabad,Gujarat,East,Technology,Phones,PROD-TE-7675,Samsung Galaxy Office,2526.41,6,0.05,643.97
+CA-2024-100086,2023-10-23,2023-10-29,First Class,CUST-2913,Priya S,Corporate,Ahmedabad,Gujarat,South,Technology,Phones,PROD-TE-8657,Samsung Galaxy Office,2659.19,9,0.15,542.58
+CA-2025-100019,2023-11-05,2023-11-06,Second Class,CUST-5186,Divya S,Home Office,Mumbai,Maharashtra,East,Furniture,Furnishings,PROD-FU-9905,Eldon Wave Desk Accessories,383.12,1,0.2,3.61
+CA-2024-100028,2023-11-10,2023-11-17,Same Day,CUST-5809,Priya M,Consumer,Mumbai,Maharashtra,East,Furniture,Chairs,PROD-FU-5178,Hon Deluxe Fabric Chair,490.2,5,0.2,55.41
+CA-2024-100052,2023-11-12,2023-11-15,Same Day,CUST-7371,Priya N,Corporate,New Delhi,Delhi,West,Technology,Copiers,PROD-TE-7359,Xerox WorkCentre,593.38,1,0.15,147.42
+CA-2024-100186,2023-11-14,2023-11-15,First Class,CUST-3113,Vijay S,Corporate,Ahmedabad,Gujarat,East,Technology,Machines,PROD-TE-6879,Laminator Pro,6003.94,8,0.05,1871.11
+CA-2025-100011,2023-11-27,2023-11-30,Standard Class,CUST-9306,Vijay P,Consumer,Kochi,Kerala,East,Technology,Phones,PROD-TE-9808,Samsung Galaxy Office,571.32,2,0.15,110.54
+CA-2025-100167,2023-11-27,2023-12-02,First Class,CUST-4727,Arun N,Consumer,Hyderabad,Telangana,East,Technology,Phones,PROD-TE-7272,Apple iPhone Business,4278.55,6,0.1,300.1
+CA-2025-100089,2023-12-04,2023-12-09,Second Class,CUST-6233,Arun P,Corporate,Bengaluru,Karnataka,South,Technology,Copiers,PROD-TE-1317,Canon ImageRunner,2546.07,6,0.1,587.31
+CA-2024-100166,2023-12-06,2023-12-12,Standard Class,CUST-9706,Divya R,Corporate,Kochi,Kerala,South,Furniture,Tables,PROD-FU-9894,Bevis Round Table,1537.61,4,0.1,243.9
+CA-2025-100057,2023-12-06,2023-12-13,Standard Class,CUST-7456,Arun R,Corporate,Kolkata,West Bengal,Central,Office Supplies,Binders,PROD-OF-5212,Avery Durable Binders,383.72,9,0.15,58.85
+CA-2024-100100,2023-12-10,2023-12-14,Standard Class,CUST-2607,Vijay P,Consumer,Kolkata,West Bengal,West,Furniture,Chairs,PROD-FU-6179,Hon Deluxe Fabric Chair,921.51,6,0.2,67.28
+CA-2024-100020,2023-12-10,2023-12-11,Standard Class,CUST-4072,Vijay K,Home Office,Mumbai,Maharashtra,South,Technology,Phones,PROD-TE-7530,Samsung Galaxy Office,152.11,3,0.15,8.86
+CA-2025-100055,2023-12-12,2023-12-14,Same Day,CUST-4177,Arun S,Consumer,Kolkata,West Bengal,West,Technology,Accessories,PROD-TE-9795,Belkin USB Hub,715.96,1,0.15,165.41
+CA-2024-100170,2023-12-14,2023-12-18,Same Day,CUST-2013,Priya R,Home Office,Bengaluru,Karnataka,South,Technology,Copiers,PROD-TE-1226,Xerox WorkCentre,1287.21,3,0.1,237.73
+CA-2025-100181,2023-12-25,2023-12-29,Same Day,CUST-7164,Priya M,Home Office,Kolkata,West Bengal,South,Technology,Accessories,PROD-TE-4670,Logitech Wireless Mouse,1383.95,4,0.1,268.31
+CA-2025-100059,2024-01-02,2024-01-06,Same Day,CUST-3713,Anitha R,Corporate,Hyderabad,Telangana,Central,Office Supplies,Paper,PROD-OF-6588,Hammermill Paper,266.27,3,0.0,51.51
+CA-2024-100014,2024-01-08,2024-01-10,First Class,CUST-1395,Arun R,Home Office,Kochi,Kerala,West,Furniture,Bookcases,PROD-FU-8400,Sauder Classic Bookcase,2390.81,7,0.15,92.97
+CA-2024-100192,2024-01-09,2024-01-15,Same Day,CUST-1645,Arun S,Consumer,Kolkata,West Bengal,East,Furniture,Chairs,PROD-FU-8544,Global Ergonomic Chair,111.75,1,0.0,14.06
+CA-2024-100176,2024-01-12,2024-01-17,Same Day,CUST-8999,Suresh N,Consumer,Kochi,Kerala,East,Technology,Phones,PROD-TE-7052,Samsung Galaxy Office,1641.15,6,0.1,200.83
+CA-2024-100112,2024-01-14,2024-01-19,Second Class,CUST-2394,Meena N,Corporate,Bengaluru,Karnataka,South,Furniture,Chairs,PROD-FU-5732,Global Ergonomic Chair,2157.78,8,0.15,-73.26
+CA-2025-100093,2024-01-15,2024-01-16,Same Day,CUST-8009,Vijay M,Corporate,Kochi,Kerala,South,Technology,Phones,PROD-TE-5543,Apple iPhone Business,99.77,2,0.1,28.27
+CA-2025-100175,2024-01-20,2024-01-26,Standard Class,CUST-6068,Suresh K,Corporate,Bengaluru,Karnataka,South,Technology,Machines,PROD-TE-7397,Laminator Pro,3666.54,6,0.1,563.61
+CA-2025-100023,2024-01-21,2024-01-23,Same Day,CUST-8575,Priya M,Home Office,Kochi,Kerala,South,Furniture,Furnishings,PROD-FU-1667,DAX Clear Frame,333.47,1,0.05,7.28
+CA-2024-100050,2024-01-23,2024-01-27,Same Day,CUST-6765,Karthik M,Corporate,Kochi,Kerala,West,Furniture,Chairs,PROD-FU-2202,Hon Deluxe Fabric Chair,163.95,1,0.15,17.21
+CA-2025-100067,2024-01-23,2024-01-26,Second Class,CUST-3679,Divya S,Home Office,Hyderabad,Telangana,South,Office Supplies,Labels,PROD-OF-3106,Avery Address Labels,218.84,4,0.15,18.84
+CA-2025-100069,2024-01-25,2024-01-26,Same Day,CUST-9232,Priya S,Corporate,Mumbai,Maharashtra,South,Technology,Phones,PROD-TE-8184,Apple iPhone Business,2550.15,4,0.0,568.71
+CA-2024-100108,2024-01-27,2024-02-02,First Class,CUST-5109,Anitha R,Corporate,Kochi,Kerala,Central,Office Supplies,Fasteners,PROD-OF-8179,OIC Binder Clips,596.3,7,0.0,145.66
+CA-2024-100136,2024-01-28,2024-02-04,First Class,CUST-7602,Arun M,Consumer,Mumbai,Maharashtra,South,Furniture,Tables,PROD-FU-3349,Bevis Round Table,2285.11,9,0.15,206.14
+CA-2025-100135,2024-02-02,2024-02-08,First Class,CUST-2100,Vijay K,Consumer,New Delhi,Delhi,Central,Furniture,Bookcases,PROD-FU-7652,Sauder Classic Bookcase,404.82,2,0.3,-29.65
+CA-2024-100074,2024-02-06,2024-02-12,Standard Class,CUST-8970,Suresh M,Consumer,New Delhi,Delhi,East,Technology,Phones,PROD-TE-2252,Samsung Galaxy Office,685.45,2,0.0,185.3
+CA-2024-100122,2024-02-11,2024-02-12,Second Class,CUST-1986,Suresh M,Consumer,Kochi,Kerala,Central,Furniture,Furnishings,PROD-FU-5440,DAX Clear Frame,619.91,2,0.15,-34.93
+CA-2025-100147,2024-02-11,2024-02-13,Same Day,CUST-3964,Meena R,Corporate,Kolkata,West Bengal,Central,Office Supplies,Appliances,PROD-OF-8137,Hoover Microwave,115.9,1,0.0,25.45
+CA-2024-100184,2024-02-15,2024-02-20,First Class,CUST-4750,Karthik K,Home Office,Kochi,Kerala,Central,Technology,Accessories,PROD-TE-9535,Logitech Wireless Mouse,1988.81,6,0.2,136.41
+CA-2024-100022,2024-02-18,2024-02-24,Same Day,CUST-4376,Divya K,Home Office,Chennai,Tamil Nadu,East,Technology,Machines,PROD-TE-6645,3D Printer Mini,3948.43,5,0.05,320.66
+CA-2024-100110,2024-02-23,2024-02-26,First Class,CUST-9946,Meena P,Corporate,Kolkata,West Bengal,Central,Furniture,Chairs,PROD-FU-7236,Global Ergonomic Chair,494.01,3,0.0,57.53
+CA-2025-100061,2024-03-03,2024-03-07,Standard Class,CUST-6490,Suresh S,Consumer,Mumbai,Maharashtra,West,Office Supplies,Art,PROD-OF-7645,Newell 324 Art Set,236.27,8,0.15,45.29
+CA-2025-100001,2024-03-11,2024-03-15,Second Class,CUST-9173,Arun P,Home Office,Kolkata,West Bengal,East,Furniture,Bookcases,PROD-FU-5495,Bush Somerset Collection Bookcase,577.08,3,0.05,19.77
+CA-2024-100060,2024-03-30,2024-04-06,Standard Class,CUST-2759,Divya K,Home Office,Hyderabad,Telangana,East,Technology,Accessories,PROD-TE-3482,Logitech Wireless Mouse,176.36,1,0.0,61.58
+CA-2025-100183,2024-03-31,2024-04-05,Standard Class,CUST-5624,Suresh K,Consumer,Hyderabad,Telangana,West,Office Supplies,Supplies,PROD-OF-2633,Pens & Highlighters,777.4,9,0.0,278.34
+CA-2025-100081,2024-03-31,2024-04-04,First Class,CUST-3032,Suresh P,Consumer,Kochi,Kerala,West,Furniture,Bookcases,PROD-FU-9436,Bush Somerset Collection Bookcase,206.16,2,0.05,44.13
+CA-2024-100012,2024-04-03,2024-04-04,Second Class,CUST-6988,Suresh M,Corporate,Chennai,Tamil Nadu,Central,Technology,Machines,PROD-TE-3504,Laminator Pro,4092.21,7,0.0,1215.14
+CA-2025-100027,2024-04-04,2024-04-10,Same Day,CUST-9702,Priya K,Corporate,Chennai,Tamil Nadu,East,Technology,Copiers,PROD-TE-1384,Canon ImageRunner,307.23,1,0.2,10.28
+CA-2024-100140,2024-04-05,2024-04-11,First Class,CUST-7813,Karthik S,Home Office,Mumbai,Maharashtra,East,Office Supplies,Binders,PROD-OF-1632,Avery Durable Binders,142.97,8,0.0,46.67
+CA-2024-100082,2024-04-06,2024-04-10,Second Class,CUST-4760,Anitha M,Home Office,Ahmedabad,Gujarat,Central,Office Supplies,Fasteners,PROD-OF-3050,OIC Binder Clips,359.6,9,0.1,48.29
+CA-2024-100130,2024-04-06,2024-04-07,Standard Class,CUST-1105,Divya M,Consumer,Bengaluru,Karnataka,South,Technology,Accessories,PROD-TE-6539,Logitech Wireless Mouse,692.47,2,0.3,32.25
+CA-2025-100009,2024-04-11,2024-04-12,Same Day,CUST-7303,Karthik K,Home Office,Mumbai,Maharashtra,Central,Office Supplies,Storage,PROD-OF-1851,Fellowes Storage Box,348.82,3,0.1,31.34
+CA-2025-100195,2024-04-16,2024-04-22,Second Class,CUST-1155,Meena P,Corporate,New Delhi,Delhi,South,Furniture,Bookcases,PROD-FU-2958,Sauder Classic Bookcase,1901.15,5,0.1,19.92
+CA-2025-100103,2024-04-16,2024-04-20,First Class,CUST-2389,Divya M,Corporate,Ahmedabad,Gujarat,Central,Furniture,Tables,PROD-FU-9357,Bretford Conference Table,1037.99,5,0.0,146.4
+CA-2025-100171,2024-04-17,2024-04-18,Same Day,CUST-3563,Anitha S,Corporate,New Delhi,Delhi,Central,Technology,Phones,PROD-TE-4292,Samsung Galaxy Office,705.66,5,0.3,-13.55
+CA-2024-100032,2024-04-19,2024-04-22,First Class,CUST-6115,Priya R,Corporate,Chennai,Tamil Nadu,Central,Technology,Accessories,PROD-TE-5637,Logitech Wireless Mouse,759.34,2,0.1,113.59
+CA-2024-100036,2024-04-20,2024-04-25,Standard Class,CUST-8240,Meena R,Consumer,Hyderabad,Telangana,East,Office Supplies,Binders,PROD-OF-7937,Avery Durable Binders,249.32,5,0.1,46.28
+CA-2024-100072,2024-04-21,2024-04-28,Standard Class,CUST-2333,Suresh R,Consumer,Bengaluru,Karnataka,Central,Furniture,Chairs,PROD-FU-5150,Global Ergonomic Chair,119.81,1,0.1,7.42
+CA-2024-100146,2024-04-29,2024-05-02,Standard Class,CUST-9286,Karthik S,Home Office,Chennai,Tamil Nadu,West,Technology,Phones,PROD-TE-6901,Apple iPhone Business,859.34,2,0.2,101.45
+CA-2025-100045,2024-04-29,2024-05-03,Same Day,CUST-1009,Arun S,Consumer,Kolkata,West Bengal,West,Technology,Copiers,PROD-TE-1260,Xerox WorkCentre,462.44,1,0.15,80.89
+CA-2025-100113,2024-05-04,2024-05-06,Same Day,CUST-1525,Vijay S,Home Office,Kochi,Kerala,South,Technology,Accessories,PROD-TE-7477,Belkin USB Hub,1615.55,3,0.2,399.8
+CA-2025-100021,2024-05-06,2024-05-09,First Class,CUST-2852,Arun N,Consumer,Kolkata,West Bengal,East,Office Supplies,Paper,PROD-OF-5910,Hammermill Paper,292.5,9,0.3,44.89
+CA-2024-100094,2024-05-07,2024-05-10,Same Day,CUST-3382,Anitha N,Corporate,Mumbai,Maharashtra,West,Furniture,Tables,PROD-FU-6084,Bevis Round Table,3077.8,8,0.1,12.55
+CA-2025-100199,2024-05-11,2024-05-18,First Class,CUST-3946,Divya N,Home Office,Kolkata,West Bengal,East,Technology,Accessories,PROD-TE-6394,Belkin USB Hub,263.16,4,0.1,50.64
+CA-2024-100106,2024-05-13,2024-05-19,Second Class,CUST-9619,Meena N,Corporate,Bengaluru,Karnataka,West,Office Supplies,Storage,PROD-OF-2895,Fellowes Storage Box,165.45,4,0.2,40.34
+CA-2024-100134,2024-05-17,2024-05-20,Standard Class,CUST-1482,Suresh K,Home Office,Chennai,Tamil Nadu,Central,Office Supplies,Appliances,PROD-OF-4179,Hamilton Beach Blender,527.89,5,0.05,171.1
+CA-2025-100121,2024-05-17,2024-05-21,Same Day,CUST-5612,Anitha R,Home Office,Chennai,Tamil Nadu,East,Office Supplies,Paper,PROD-OF-2198,Xerox Copy Paper,116.51,4,0.15,5.81
+CA-2025-100043,2024-05-19,2024-05-20,Standard Class,CUST-3551,Meena P,Consumer,Chennai,Tamil Nadu,South,Office Supplies,Paper,PROD-OF-6560,Xerox Copy Paper,837.77,8,0.3,116.42
+CA-2025-100169,2024-05-20,2024-05-23,First Class,CUST-8544,Suresh R,Corporate,Kolkata,West Bengal,South,Furniture,Tables,PROD-FU-3634,Bretford Conference Table,2605.69,9,0.1,-54.31
+CA-2024-100062,2024-05-23,2024-05-24,First Class,CUST-2481,Vijay M,Consumer,Kochi,Kerala,East,Furniture,Bookcases,PROD-FU-7305,Sauder Classic Bookcase,208.24,1,0.2,-2.28
+CA-2024-100034,2024-05-25,2024-06-01,Second Class,CUST-7090,Arun S,Corporate,Chennai,Tamil Nadu,Central,Technology,Phones,PROD-TE-7031,Apple iPhone Business,2713.51,5,0.0,554.19
+CA-2025-100099,2024-06-04,2024-06-05,Second Class,CUST-6626,Meena M,Consumer,Chennai,Tamil Nadu,Central,Office Supplies,Appliances,PROD-OF-8424,Hoover Microwave,8.58,1,0.1,2.48
+CA-2025-100153,2024-06-08,2024-06-09,Same Day,CUST-9433,Divya S,Corporate,Mumbai,Maharashtra,Central,Technology,Machines,PROD-TE-8380,Laminator Pro,3307.17,5,0.05,406.13
+CA-2025-100151,2024-06-24,2024-06-28,Standard Class,CUST-4302,Arun N,Corporate,Mumbai,Maharashtra,West,Furniture,Bookcases,PROD-FU-8857,Sauder Classic Bookcase,303.77,1,0.0,52.57
+CA-2024-100128,2024-06-30,2024-07-07,Second Class,CUST-7570,Arun P,Consumer,Hyderabad,Telangana,Central,Office Supplies,Envelopes,PROD-OF-9212,Airmail Envelopes,356.5,5,0.2,70.46
+CA-2025-100139,2024-07-07,2024-07-13,First Class,CUST-4874,Karthik R,Corporate,Kolkata,West Bengal,East,Technology,Machines,PROD-TE-5211,3D Printer Mini,788.99,2,0.1,105.76
+CA-2025-100165,2024-07-09,2024-07-14,Standard Class,CUST-4537,Karthik N,Home Office,Hyderabad,Telangana,East,Furniture,Furnishings,PROD-FU-5558,DAX Clear Frame,1809.5,8,0.3,-103.0
+CA-2024-100076,2024-07-09,2024-07-12,Standard Class,CUST-6387,Priya P,Corporate,Chennai,Tamil Nadu,East,Furniture,Furnishings,PROD-FU-4993,Eldon Wave Desk Accessories,3065.51,8,0.05,482.01
+CA-2024-100160,2024-07-10,2024-07-11,Standard Class,CUST-3376,Divya S,Consumer,Mumbai,Maharashtra,Central,Technology,Phones,PROD-TE-4009,Samsung Galaxy Office,366.14,6,0.1,33.43
+CA-2025-100031,2024-07-14,2024-07-17,Standard Class,CUST-7881,Suresh K,Home Office,New Delhi,Delhi,West,Office Supplies,Art,PROD-OF-7949,Newell 324 Art Set,604.31,9,0.1,130.92
+CA-2024-100066,2024-07-15,2024-07-16,Standard Class,CUST-5566,Anitha P,Corporate,Hyderabad,Telangana,Central,Furniture,Furnishings,PROD-FU-5491,DAX Clear Frame,949.67,3,0.05,179.48
+CA-2024-100040,2024-07-16,2024-07-22,Standard Class,CUST-1232,Suresh S,Consumer,Chennai,Tamil Nadu,West,Office Supplies,Labels,PROD-OF-7371,Smead File Labels,161.41,9,0.0,32.75
+CA-2024-100144,2024-07-17,2024-07-23,Same Day,CUST-1560,Divya S,Corporate,Bengaluru,Karnataka,East,Office Supplies,Supplies,PROD-OF-9785,Staples Index Cards,96.75,4,0.15,18.13
+CA-2024-100056,2024-07-18,2024-07-21,Standard Class,CUST-2645,Anitha R,Corporate,Kolkata,West Bengal,South,Office Supplies,Envelopes,PROD-OF-4030,Airmail Envelopes,855.15,9,0.15,99.53
+CA-2024-100070,2024-07-19,2024-07-20,First Class,CUST-5263,Meena M,Consumer,Mumbai,Maharashtra,South,Technology,Machines,PROD-TE-9801,Laminator Pro,901.83,5,0.2,158.38
+CA-2025-100041,2024-07-20,2024-07-23,Second Class,CUST-2761,Suresh R,Home Office,Hyderabad,Telangana,South,Furniture,Furnishings,PROD-FU-1876,Eldon Wave Desk Accessories,1606.73,6,0.2,-78.85
+CA-2025-100123,2024-07-27,2024-07-31,Second Class,CUST-6105,Divya M,Home Office,Bengaluru,Karnataka,South,Technology,Copiers,PROD-TE-1703,Xerox WorkCentre,2074.18,4,0.15,29.95
+CA-2025-100161,2024-07-27,2024-07-28,Same Day,CUST-3196,Anitha P,Consumer,Mumbai,Maharashtra,East,Technology,Phones,PROD-TE-4747,Samsung Galaxy Office,543.21,2,0.0,113.6
+CA-2024-100142,2024-07-28,2024-08-02,Standard Class,CUST-3785,Suresh S,Home Office,Hyderabad,Telangana,Central,Office Supplies,Art,PROD-OF-4725,Boston Pencil Pack,68.46,1,0.15,15.04
+CA-2024-100158,2024-07-31,2024-08-04,Standard Class,CUST-1147,Meena K,Corporate,Hyderabad,Telangana,East,Furniture,Furnishings,PROD-FU-7420,Eldon Wave Desk Accessories,416.96,5,0.3,36.06
+CA-2025-100107,2024-08-15,2024-08-18,First Class,CUST-4389,Karthik P,Consumer,New Delhi,Delhi,East,Technology,Phones,PROD-TE-9442,Samsung Galaxy Office,1636.22,3,0.05,480.76
+CA-2025-100051,2024-08-23,2024-08-27,Same Day,CUST-2120,Anitha M,Home Office,Ahmedabad,Gujarat,Central,Technology,Phones,PROD-TE-1950,Samsung Galaxy Office,4462.27,8,0.3,-21.88
+CA-2024-100194,2024-08-30,2024-09-02,Second Class,CUST-3326,Suresh R,Corporate,Kolkata,West Bengal,East,Technology,Copiers,PROD-TE-7416,Xerox WorkCentre,2605.45,8,0.2,26.74
+CA-2025-100129,2024-09-04,2024-09-07,Standard Class,CUST-1140,Arun K,Home Office,Chennai,Tamil Nadu,Central,Office Supplies,Fasteners,PROD-OF-5882,OIC Binder Clips,850.65,7,0.1,218.23
+CA-2025-100007,2024-09-06,2024-09-07,Standard Class,CUST-3141,Divya N,Home Office,Kochi,Kerala,East,Furniture,Tables,PROD-FU-7617,Bretford Conference Table,750.24,7,0.1,29.5
+CA-2024-100164,2024-09-11,2024-09-17,First Class,CUST-8165,Meena K,Corporate,Kolkata,West Bengal,East,Office Supplies,Appliances,PROD-OF-1301,Hoover Microwave,818.89,8,0.0,145.38
+CA-2025-100179,2024-09-19,2024-09-23,Standard Class,CUST-1204,Anitha R,Consumer,Hyderabad,Telangana,West,Furniture,Chairs,PROD-FU-1581,Hon Deluxe Fabric Chair,1166.69,6,0.05,85.95
+CA-2024-100178,2024-09-24,2024-09-27,First Class,CUST-2431,Suresh S,Home Office,Bengaluru,Karnataka,South,Technology,Machines,PROD-TE-5713,3D Printer Mini,1819.81,4,0.2,185.1
+CA-2024-100168,2024-10-01,2024-10-07,Second Class,CUST-7445,Meena M,Consumer,Hyderabad,Telangana,Central,Technology,Machines,PROD-TE-3159,Laminator Pro,1074.3,5,0.0,176.13
+CA-2025-100131,2024-10-04,2024-10-05,Standard Class,CUST-4654,Priya R,Corporate,Hyderabad,Telangana,South,Office Supplies,Fasteners,PROD-OF-8102,OIC Binder Clips,234.6,2,0.2,-0.71
+CA-2024-100162,2024-10-07,2024-10-11,Standard Class,CUST-8569,Meena K,Home Office,Mumbai,Maharashtra,East,Office Supplies,Paper,PROD-OF-6784,Xerox Copy Paper,483.02,8,0.2,106.54
+CA-2024-100046,2024-10-08,2024-10-11,First Class,CUST-4490,Divya P,Corporate,Kolkata,West Bengal,West,Office Supplies,Storage,PROD-OF-8984,Rubbermaid Containers,167.83,7,0.3,5.73
+CA-2024-100102,2024-10-09,2024-10-10,Standard Class,CUST-8099,Suresh N,Consumer,New Delhi,Delhi,South,Furniture,Tables,PROD-FU-6109,Bretford Conference Table,418.04,3,0.2,22.5
+CA-2025-100185,2024-10-10,2024-10-17,Second Class,CUST-6774,Divya P,Home Office,Chennai,Tamil Nadu,Central,Furniture,Bookcases,PROD-FU-7519,Sauder Classic Bookcase,810.74,8,0.3,-9.75
+CA-2025-100149,2024-10-16,2024-10-22,Second Class,CUST-7488,Meena K,Corporate,Kochi,Kerala,South,Office Supplies,Supplies,PROD-OF-5737,Pens & Highlighters,31.77,6,0.3,3.09
+CA-2024-100018,2024-10-23,2024-10-28,First Class,CUST-2365,Priya N,Consumer,Bengaluru,Karnataka,West,Furniture,Chairs,PROD-FU-9691,Hon Deluxe Fabric Chair,1032.84,8,0.0,68.45
+CA-2025-100191,2024-10-25,2024-11-01,Standard Class,CUST-9004,Suresh M,Home Office,Mumbai,Maharashtra,Central,Office Supplies,Supplies,PROD-OF-7274,Pens & Highlighters,655.4,7,0.15,222.31
+CA-2024-100016,2024-10-25,2024-10-31,Same Day,CUST-7541,Vijay K,Home Office,Kochi,Kerala,West,Technology,Copiers,PROD-TE-5729,Xerox WorkCentre,6150.71,9,0.2,1069.77
+CA-2025-100193,2024-11-02,2024-11-04,Second Class,CUST-4348,Meena M,Corporate,New Delhi,Delhi,South,Furniture,Tables,PROD-FU-7299,Bevis Round Table,771.58,2,0.1,84.99
+CA-2025-100109,2024-11-05,2024-11-06,First Class,CUST-3356,Priya M,Consumer,Kolkata,West Bengal,West,Furniture,Tables,PROD-FU-5790,Bevis Round Table,2268.74,7,0.1,95.77
+CA-2025-100187,2024-11-07,2024-11-10,Standard Class,CUST-7852,Divya S,Corporate,Chennai,Tamil Nadu,East,Office Supplies,Paper,PROD-OF-3551,Hammermill Paper,211.93,3,0.15,47.37
+CA-2025-100035,2024-11-12,2024-11-18,Same Day,CUST-8570,Priya N,Consumer,Kochi,Kerala,Central,Technology,Phones,PROD-TE-8956,Samsung Galaxy Office,3199.3,8,0.0,1096.53
+CA-2025-100159,2024-11-12,2024-11-15,Same Day,CUST-9964,Arun R,Consumer,New Delhi,Delhi,East,Technology,Copiers,PROD-TE-7493,Xerox WorkCentre,2361.28,8,0.15,169.88
+CA-2024-100126,2024-11-14,2024-11-19,Second Class,CUST-7059,Meena N,Home Office,Kochi,Kerala,Central,Technology,Machines,PROD-TE-8010,3D Printer Mini,544.98,1,0.15,38.77
+CA-2024-100190,2024-11-14,2024-11-16,Same Day,CUST-8183,Meena P,Consumer,New Delhi,Delhi,East,Technology,Phones,PROD-TE-6248,Samsung Galaxy Office,1362.59,8,0.05,89.22
+CA-2025-100039,2024-11-17,2024-11-23,Second Class,CUST-9905,Meena S,Consumer,Kolkata,West Bengal,East,Office Supplies,Envelopes,PROD-OF-2062,Staples Premium Envelopes,488.83,7,0.15,95.12
+CA-2025-100141,2024-11-21,2024-11-27,Second Class,CUST-7099,Anitha N,Consumer,Kochi,Kerala,West,Furniture,Tables,PROD-FU-9555,Bretford Conference Table,2253.81,7,0.2,246.02
+CA-2025-100197,2024-11-22,2024-11-29,Standard Class,CUST-8374,Meena K,Corporate,Ahmedabad,Gujarat,South,Technology,Copiers,PROD-TE-2138,Xerox WorkCentre,2420.75,5,0.2,358.25
+CA-2025-100155,2024-11-29,2024-12-03,Second Class,CUST-3672,Priya N,Consumer,New Delhi,Delhi,West,Technology,Phones,PROD-TE-5200,Apple iPhone Business,727.38,2,0.2,47.68
+CA-2025-100037,2024-11-30,2024-12-04,Second Class,CUST-2276,Karthik K,Corporate,Mumbai,Maharashtra,West,Office Supplies,Supplies,PROD-OF-6811,Pens & Highlighters,754.05,9,0.2,50.04
+CA-2025-100005,2024-12-01,2024-12-03,Second Class,CUST-2664,Divya R,Home Office,Mumbai,Maharashtra,Central,Furniture,Chairs,PROD-FU-2081,Global Ergonomic Chair,1666.66,8,0.0,91.78
+CA-2025-100085,2024-12-02,2024-12-03,Same Day,CUST-8274,Priya K,Corporate,Bengaluru,Karnataka,South,Office Supplies,Paper,PROD-OF-1824,Hammermill Paper,267.7,2,0.1,64.05
+CA-2025-100073,2024-12-03,2024-12-10,First Class,CUST-8101,Karthik S,Consumer,Mumbai,Maharashtra,Central,Furniture,Furnishings,PROD-FU-8674,Eldon Wave Desk Accessories,2658.5,8,0.3,-110.27
+CA-2024-100182,2024-12-10,2024-12-17,Standard Class,CUST-8875,Karthik S,Corporate,Kochi,Kerala,Central,Furniture,Tables,PROD-FU-7633,Bevis Round Table,1630.66,5,0.0,279.99
+CA-2024-100088,2024-12-20,2024-12-25,Same Day,CUST-1954,Karthik S,Home Office,Ahmedabad,Gujarat,Central,Furniture,Chairs,PROD-FU-8291,Global Ergonomic Chair,546.38,5,0.2,-38.42
+CA-2025-100087,2024-12-25,2024-12-29,Same Day,CUST-5675,Arun K,Corporate,Bengaluru,Karnataka,Central,Technology,Accessories,PROD-TE-2933,Belkin USB Hub,461.07,3,0.15,25.43
+CA-2025-100127,2024-12-26,2024-12-30,First Class,CUST-2177,Anitha K,Corporate,New Delhi,Delhi,East,Office Supplies,Art,PROD-OF-5760,Newell 324 Art Set,720.68,8,0.05,239.28
+CA-2025-100083,2024-12-27,2024-12-28,First Class,CUST-9056,Divya N,Consumer,Kolkata,West Bengal,East,Technology,Machines,PROD-TE-8511,3D Printer Mini,1988.53,8,0.0,689.39
+CA-2024-100124,2024-12-28,2024-12-29,Same Day,CUST-4173,Meena N,Corporate,Kolkata,West Bengal,South,Technology,Accessories,PROD-TE-2667,Belkin USB Hub,4561.12,6,0.15,477.83
+CA-2025-100075,2024-12-30,2025-01-01,Standard Class,CUST-8982,Priya M,Corporate,Hyderabad,Telangana,South,Furniture,Furnishings,PROD-FU-5107,DAX Clear Frame,626.57,3,0.0,42.81
